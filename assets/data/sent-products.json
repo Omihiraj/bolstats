@@ -1,0 +1,20 @@
+[
+    {
+        "pname":"Travel Bag",
+        "pid":"#APL57088634790",
+        "pimg":"assets/pimgs/handbag.png",
+        "status":"Verzonden",
+        "pqty":58,
+        "pprice":23.50
+        
+    },
+    {
+        "pname":"Corby Dining  Chair",
+        "pid":"#APL57088634790",
+        "pimg":"assets/pimgs/chair.png",
+        "status":"Verzonden",
+        "pqty":25,
+        "pprice":50.0
+        
+    }
+]

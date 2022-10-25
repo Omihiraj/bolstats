@@ -1,0 +1,31 @@
+[
+    {
+        "pname":"Pink Smart Watch Women",
+        "pid":"#APL57088634790",
+        "pimg":"assets/pimgs/watch.png",
+        "status":"Openstaand",
+        "pqty":45,
+        "pprice":203.0
+        
+    },
+    {
+        "pname":"Dames Sneakers",
+        "pid":"#APL57088634790",
+        "pimg":"assets/pimgs/shoe.png",
+        "status":"Openstaand",
+        "pqty":65,
+        "pprice":95.0
+        
+    },
+    {
+        "pname":"Apple Airpods Pro",
+        "pid":"#APL57088634790",
+        "pimg":"assets/pimgs/airpod.png",
+        "status":"Openstaand",
+        "pqty":38,
+        "pprice":250.0
+        
+    }
+    
+   
+]
